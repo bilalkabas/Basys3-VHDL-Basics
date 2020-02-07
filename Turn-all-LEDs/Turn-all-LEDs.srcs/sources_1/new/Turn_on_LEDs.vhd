@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
--- Company: Abdullah Gül University
--- Engineer: Bilal KABA?
+-- Company: Abdullah Gul University
+-- Engineer: Bilal KABAS
 -- 
 -- Create Date: 07.02.2020 22:49:47
 -- Module Name: Turn_on_LEDs - Behavioral
