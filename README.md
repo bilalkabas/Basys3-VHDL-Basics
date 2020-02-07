@@ -1,6 +1,6 @@
 # VHDL Examples using Basys3 and Vivado 2019
-[![Board](https://img.shields.io/badge/Board-Basys3-%234285F4?style=flat-square)]
-[![Vivado Version](https://img.shields.io/badge/Vivado-2019-brightgreen?style=flat-square)]
+![Board](https://img.shields.io/badge/Board-Basys3-%234285F4?style=flat-square)
+![Vivado Version](https://img.shields.io/badge/Vivado-2019-brightgreen?style=flat-square)
 [![license](https://img.shields.io/badge/license-MIT-%23F65314?style=flat-square)](LICENSE)
 
 This repository aims to help beginners and will be used as a reference in the future.
