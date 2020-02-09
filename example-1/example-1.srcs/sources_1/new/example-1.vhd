@@ -3,8 +3,8 @@
 -- Engineer: Bilal KABAS
 -- 
 -- Create Date: 07.02.2020 22:49:47
--- Module Name: Turn_on_LEDs - Behavioral
--- Project Name: Turn-on-LEDs
+-- Module Name: Example 1 - Behavioral
+-- Project Name: Example 1
 -- Target Devices: Basys3
 -- Revision 0.01 - File Created
 ----------------------------------------------------------------------------------
