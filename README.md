@@ -6,8 +6,14 @@
 This repository aims to help beginners and will be used as a reference in the future.
 
 ## Examples
-- **Example 1:** *Turn on the LEDs with corresponding switches.*
-- **Example 2:** *Control all the LEDs with a switch and pushbutton using the process keyword and an XOR logic gate.*
+- **Example 1:**<br>
+*Turn on the LEDs with corresponding switches.*
+
+- **Example 2:**<br>
+*Control all the LEDs with a switch and pushbutton using the process keyword and an XOR logic gate. The process statement has a sensitivity list, in this case the inputs coming from a switch and pushbutton. The changes in these inputs trigger the process and it executes the code inside of it.*
+
+- **Example 3:**<br>
+*Convert binary to decimal and display it on the 7 segment display. Use the leftmost 4 switches to control the anodes and use the rightmost ones to enter binary input.*
 
 ## Getting Started
 
