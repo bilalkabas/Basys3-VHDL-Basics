@@ -13,20 +13,16 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
-entity Turn_on_LEDs is
+entity example1 is
   Generic (
     SWITCH_NUM  : integer:= 16);
   
   Port (
     sw          : in std_logic_vector(SWITCH_NUM - 1 downto 0);
     led         : out std_logic_vector(SWITCH_NUM - 1 downto 0));
-         
-end Turn_on_LEDs;
+end example1;
 
-architecture Behavioral of Turn_on_LEDs is
-
+architecture Behavioral of example1 is
 begin
-
     led <= sw;
-
 end Behavioral;
