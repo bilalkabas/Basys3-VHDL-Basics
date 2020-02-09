@@ -4,7 +4,7 @@
 -- 
 -- Create Date: 07.02.2020 22:49:47
 -- Module Name: Example 2 - Behavioral
--- Project Name: Example 2 Keyword
+-- Project Name: Example 2
 -- Target Devices: Basys3
 -- Revision 0.01 - File Created
 ----------------------------------------------------------------------------------
@@ -13,7 +13,7 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
-entity process_keyword is
+entity example2 is
     Generic (
         LED_NUM : integer:= 16);
       
@@ -21,9 +21,9 @@ entity process_keyword is
         switch    : in std_logic;
         btnC      : in std_logic;
         led       : out std_logic_vector(LED_NUM - 1 downto 0));
-end process_keyword;
+end example2;
 
-architecture Behavioral of process_keyword is
+architecture Behavioral of example2 is
 begin
     process (switch, btnC)
     begin
