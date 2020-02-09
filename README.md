@@ -6,7 +6,8 @@
 This repository aims to help beginners and will be used as a reference in the future.
 
 ## Examples
-- Turn on the LEDs using the switches
+- **Example 1:** *Turn on the LEDs with corresponding switches.*
+- **Example 2:** *Control all the LEDs with a switch and pushbutton using the process keyword and an XOR logic gate.*
 
 ## Getting Started
 
