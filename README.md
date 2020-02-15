@@ -15,6 +15,9 @@ This repository aims to help beginners and will be used as a reference in the fu
 - **Example 3:**<br>
 *Convert binary to decimal and display it on the 7 segment display. Use the leftmost 4 switches to control the anodes and use the rightmost ones to enter binary input.*
 
+- **Example 4:**<br>
+*A knight rider implementation using the built-in LEDs with a clock divider.*
+
 ## Getting Started
 
 Before programming Basys3, you need to open the project file, run the synthesis, then run the implementation and lastly generate the bitstream. After these steps, Basys3 will be ready to be programmed using the bit file.
